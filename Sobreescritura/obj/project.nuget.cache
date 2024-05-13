@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2NFzFkPfF68KQ1ED2xtsrt8tyadezIK5q0VU/Koy4VtSFBaPcCVZkIPuzAnf389fQ2gYpRAPobDIStpxThcKzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Irene\\C#\\Variables\\Variables\\Sobreescritura\\Sobreescritura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

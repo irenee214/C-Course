@@ -1,0 +1,14 @@
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\obj\Debug\net6.0\refint\SwitchCase.dll
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
+C:\Users\practicas.soporte\source\repos\Variables\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll

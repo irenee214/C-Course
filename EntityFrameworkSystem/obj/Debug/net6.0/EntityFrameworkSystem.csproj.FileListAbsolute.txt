@@ -1,0 +1,5 @@
+C:\Users\practicas.soporte\source\repos\Variables\EntityFrameworkSystem\obj\Debug\net6.0\EntityFrameworkSystem.csproj.AssemblyReference.cache
+C:\Users\practicas.soporte\source\repos\Variables\EntityFrameworkSystem\obj\Debug\net6.0\EntityFrameworkSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\practicas.soporte\source\repos\Variables\EntityFrameworkSystem\obj\Debug\net6.0\EntityFrameworkSystem.AssemblyInfoInputs.cache
+C:\Users\practicas.soporte\source\repos\Variables\EntityFrameworkSystem\obj\Debug\net6.0\EntityFrameworkSystem.AssemblyInfo.cs
+C:\Users\practicas.soporte\source\repos\Variables\EntityFrameworkSystem\obj\Debug\net6.0\EntityFrameworkSystem.csproj.CoreCompileInputs.cache

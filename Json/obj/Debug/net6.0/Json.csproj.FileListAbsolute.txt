@@ -1,0 +1,14 @@
+C:\Users\practicas.soporte\source\repos\Variables\Json\bin\Debug\net6.0\Json.exe
+C:\Users\practicas.soporte\source\repos\Variables\Json\bin\Debug\net6.0\Json.deps.json
+C:\Users\practicas.soporte\source\repos\Variables\Json\bin\Debug\net6.0\Json.runtimeconfig.json
+C:\Users\practicas.soporte\source\repos\Variables\Json\bin\Debug\net6.0\Json.dll
+C:\Users\practicas.soporte\source\repos\Variables\Json\bin\Debug\net6.0\Json.pdb
+C:\Users\practicas.soporte\source\repos\Variables\Json\obj\Debug\net6.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\practicas.soporte\source\repos\Variables\Json\obj\Debug\net6.0\Json.AssemblyInfoInputs.cache
+C:\Users\practicas.soporte\source\repos\Variables\Json\obj\Debug\net6.0\Json.AssemblyInfo.cs
+C:\Users\practicas.soporte\source\repos\Variables\Json\obj\Debug\net6.0\Json.csproj.CoreCompileInputs.cache
+C:\Users\practicas.soporte\source\repos\Variables\Json\obj\Debug\net6.0\Json.dll
+C:\Users\practicas.soporte\source\repos\Variables\Json\obj\Debug\net6.0\refint\Json.dll
+C:\Users\practicas.soporte\source\repos\Variables\Json\obj\Debug\net6.0\Json.pdb
+C:\Users\practicas.soporte\source\repos\Variables\Json\obj\Debug\net6.0\Json.genruntimeconfig.cache
+C:\Users\practicas.soporte\source\repos\Variables\Json\obj\Debug\net6.0\ref\Json.dll

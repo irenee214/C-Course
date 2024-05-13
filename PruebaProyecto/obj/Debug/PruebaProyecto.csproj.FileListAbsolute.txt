@@ -1,0 +1,9 @@
+C:\Users\practicas.soporte\source\repos\Variables\PruebaProyecto\bin\Debug\PruebaProyecto.exe.config
+C:\Users\practicas.soporte\source\repos\Variables\PruebaProyecto\bin\Debug\PruebaProyecto.exe
+C:\Users\practicas.soporte\source\repos\Variables\PruebaProyecto\bin\Debug\PruebaProyecto.pdb
+C:\Users\practicas.soporte\source\repos\Variables\PruebaProyecto\obj\Debug\PruebaProyecto.csproj.AssemblyReference.cache
+C:\Users\practicas.soporte\source\repos\Variables\PruebaProyecto\obj\Debug\PruebaProyecto.Properties.Resources.resources
+C:\Users\practicas.soporte\source\repos\Variables\PruebaProyecto\obj\Debug\PruebaProyecto.csproj.GenerateResource.cache
+C:\Users\practicas.soporte\source\repos\Variables\PruebaProyecto\obj\Debug\PruebaProyecto.csproj.CoreCompileInputs.cache
+C:\Users\practicas.soporte\source\repos\Variables\PruebaProyecto\obj\Debug\PruebaProyecto.exe
+C:\Users\practicas.soporte\source\repos\Variables\PruebaProyecto\obj\Debug\PruebaProyecto.pdb

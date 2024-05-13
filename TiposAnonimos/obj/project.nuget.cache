@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WjDgkVNXaE5HZDbb8AHrrQAoopMejSFJAlKvLiJCQ+jmh7JFayH2KB2M49c2UOCxXzAtoIqWLmnzMQuHb9N4Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Irene\\C#\\Variables\\Variables\\TiposAnonimos\\TiposAnonimos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
